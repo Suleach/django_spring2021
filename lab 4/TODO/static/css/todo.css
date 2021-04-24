@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding:0px;
+    font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+}
+.nav{
+    margin: 0px;
+    padding: 12px;
+    background-color: rgba(52,58,64,255);
+    font-size:20px;
+    color: rgba(255,255,255,255)
+}
+.main-body{
+    padding: 0px 200px;
+}
+.table-title{
+    font-weight: bold;
+    font-size:30px;
+}
+.button{
+    margin: 15px 0px;
+    padding: 10px 20px;
+    background-color: rgba(21,127,251,255);
+    border: none;
+    border-radius: 5px;
+    color: rgba(255,255,255,255);
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+th{
+    height: 40px;
+    text-align: left;
+}
+td{
+
+    height:40px;
+}
+.col-name{
+    color: rgba(49,139,251,255);
+}
+.mark{
+    padding: 6px;
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgba(36,162,183,255);
+    color: rgba(255,255,255,255);
+}
+.fbut{
+    margin: 15px 0px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgba(253,192,47,255);
+}
+.sbut{
+    margin: 15px 0px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgba(218,55,73,255);
+    color: rgba(255,255,255,255);
+}
+table{
+    width:100%;
+}
